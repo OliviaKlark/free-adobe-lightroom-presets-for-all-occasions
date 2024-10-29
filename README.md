@@ -1,6 +1,6 @@
 # free-adobe-lightroom-presets-for-all-occasions
 
-<img src="https://github.com/OliviaKlark/free-adobe-lightroom-presets-for-all-occasions/blob/main/lr.jpg"/>
+<img src="https://github.com/OliviaKlark/free-adobe-lightroom-presets-for-all-occasions/blob/main/sp.jpg"/>
 
 ***Create Lightroom presets of your own to share. Or find and save presets that deliver stunning new looks from a community of photographers like you***
 
